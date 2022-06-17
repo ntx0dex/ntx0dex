@@ -1,16 +1,26 @@
-### Hi there 👋
+### i took what I feared most.
 
-<!--
-**ntx0dex/ntx0dex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- SOCIALS -->
+### Connect with me:
+    
+<img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />[Youtube](https://www.youtube.com/channel/UClRo2bJjQGa2u7GQ3EH855Q)
+<br>
+<br>
+<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[Instagram](https://www.instagram.com/rusthydev)
+<br>
+<br>
+<img align="left" alt="discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />[Discord](https://www.discord.com/users/781308123516370954)
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/rusthyy"
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushscriptz&layout=compact&langs_count=7&theme=dracula%22/%3E">
+</div>
+<div style="display: inline_block"><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/962328374137729054/971606773469421628/46649.png"/>
+</div>
+
+
+  ##
+  
+  better alone, than poorly accompanied.
